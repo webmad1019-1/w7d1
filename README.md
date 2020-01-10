@@ -20,10 +20,11 @@
 
 # Goals
 
+- Review all previously learned concepts - quizz day
 - Get to know React: this amazing technology
 - Understand a bit more about its templating system. Believe me: cool stuff
 - Coding good practises. Let's talk about some standards
-- Put in oractice these new ideas with today's activities
+- Put in practice these new ideas with today's activities
 
 # Bonus
 
